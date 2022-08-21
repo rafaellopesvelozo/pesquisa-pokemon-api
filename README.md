@@ -1,11 +1,10 @@
  
 <p align="center">👋 Olá, sou o Rafael.</p>  
 <p align="center">📚 Praticando HTML, CSS e JavaScript.</p>  
-<p align="center">📉 ecommerce product</p>  
+<p align="center">📉 Pokemon API</p>  
 
  <br>
  <br> 
  <br>
- 
 
-https://user-images.githubusercontent.com/101975205/185772282-cf6b02a5-55fa-4a21-81a7-ca8be4b622e3.mp4
+https://user-images.githubusercontent.com/101975205/185772459-81f9297b-771f-4048-a2f4-f3279ed8e8cc.mp4
